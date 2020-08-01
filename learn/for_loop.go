@@ -23,7 +23,7 @@ func main() {
 	fmt.Println("Sum is ", sum)
 
 	/***
-	Infinite loop syntax
-	for {}
+	 Infinite loop syntax
+	 for {}
 	 */
 }
